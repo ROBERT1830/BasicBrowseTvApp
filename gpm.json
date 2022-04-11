@@ -1,0 +1,102 @@
+{
+ "added": [
+  {
+   "id": 1,
+   "type": "implementation",
+   "installed_name": "retrofit",
+   "gpm_dep": {
+    "artifact_id": "retrofit",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/com.squareup.retrofit2/retrofit",
+    "get_from": "Central",
+    "group_id": "com.squareup.retrofit2",
+    "name": "Retrofit",
+    "description": "A type-safe HTTP client for Android and Java."
+   }
+  },
+  {
+   "id": 2,
+   "type": "implementation",
+   "installed_name": "moshi",
+   "gpm_dep": {
+    "artifact_id": "moshi",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/com.squareup.moshi/moshi",
+    "get_from": "Central",
+    "group_id": "com.squareup.moshi",
+    "name": "Moshi",
+    "description": "A modern JSON API for Android and Java"
+   }
+  },
+  {
+   "id": 3,
+   "type": "implementation",
+   "installed_name": "coroutines-core",
+   "gpm_dep": {
+    "artifact_id": "kotlinx-coroutines-core",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/org.jetbrains.kotlinx/kotlinx-coroutines-core",
+    "get_from": "Central",
+    "group_id": "org.jetbrains.kotlinx",
+    "name": "Kotlinx Coroutines Core",
+    "description": "Coroutines support libraries for Kotlin"
+   }
+  },
+  {
+   "id": 4,
+   "type": "implementation",
+   "installed_name": "livedata-ktx",
+   "gpm_dep": {
+    "artifact_id": "lifecycle-livedata-ktx",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/androidx.lifecycle/lifecycle-livedata-ktx",
+    "get_from": "Google",
+    "group_id": "androidx.lifecycle",
+    "name": "LiveData Kotlin Extensions",
+    "description": "Kotlin extensions for 'livedata' artifact"
+   }
+  },
+  {
+   "id": 5,
+   "type": "implementation",
+   "installed_name": "coil",
+   "gpm_dep": {
+    "artifact_id": "coil",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/io.coil-kt/coil",
+    "get_from": "Central",
+    "group_id": "io.coil-kt",
+    "name": "Coil",
+    "description": "An image loading library for Android backed by Kotlin Coroutines."
+   }
+  },
+  {
+   "id": 6,
+   "type": "implementation",
+   "installed_name": "glide",
+   "gpm_dep": {
+    "artifact_id": "glide",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/com.github.bumptech.glide/glide",
+    "get_from": "Central",
+    "group_id": "com.github.bumptech.glide",
+    "name": "Glide",
+    "description": "A fast and efficient image loading library for Android focused on smooth scrolling."
+   }
+  },
+  {
+   "id": 7,
+   "type": "implementation",
+   "installed_name": "palette",
+   "gpm_dep": {
+    "artifact_id": "palette",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/androidx.palette/palette",
+    "get_from": "Google",
+    "group_id": "androidx.palette",
+    "name": "Android Support Palette V7",
+    "description": "Android Support Palette v7"
+   }
+  }
+ ]
+}
